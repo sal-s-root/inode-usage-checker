@@ -1,0 +1,9 @@
+{
+  "filesystems": [
+    {
+      "mount": "/",
+      "total_inodes": 1000,
+      "used_inodes": 950
+    }
+  ]
+}

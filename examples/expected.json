@@ -1,0 +1,9 @@
+{
+  "filesystems": [
+    {
+      "mount": "/",
+      "used_percent": 95.0,
+      "alert": true
+    }
+  ]
+}
